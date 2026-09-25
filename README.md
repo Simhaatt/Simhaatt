@@ -1,8 +1,8 @@
 ## Simhaa T. T.
 
 **Scientific ML researcher.** I take a measurement problem from some corner of
-science — a leaf's reflectance spectrum, a cell's discharge curve, a microscope's
-point spread function — and work out what machine learning can *honestly* claim
+science, a leaf's reflectance spectrum, a cell's discharge curve, a microscope's
+point spread function and work out what machine learning can *honestly* claim
 about it.
 
 The domain changes every time. What doesn't is the discipline: hold something
